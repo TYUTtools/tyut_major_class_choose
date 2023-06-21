@@ -1,0 +1,2 @@
+# tyut_major_class_choose
+采用python生成 就像选择省市区一样快速选择太原理工大学的专业班级！
