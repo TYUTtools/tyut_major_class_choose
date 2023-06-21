@@ -7,6 +7,7 @@
 
 
 #### 截图预览
+在线Demo：[https://zhaokugua.github.io/tyut_major_class_choose/](https://zhaokugua.github.io/tyut_major_class_choose/)
 ![页面截图](photo1.png)
 
 
