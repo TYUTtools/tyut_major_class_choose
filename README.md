@@ -7,12 +7,12 @@
 
 
 #### 截图预览
-在线Demo：[https://zhaokugua.github.io/tyut_major_class_choose/](https://zhaokugua.github.io/tyut_major_class_choose/)
+在线Demo：[https://tyuttools.github.io/tyut_major_class_choose/](https://tyuttools.github.io/tyut_major_class_choose/)
 ![页面截图](photo1.png)
 
 
 #### python生成源码
-基于[pytyut](https://gitee.com/jixiaob/pytyut)从教务系统获取最新数据
+基于[pytyut](https://github.com/TYUTtools/pytyut)从教务系统获取最新数据
 
 ```python
     zkg = pytyut.Pytyut('学号', '密码', node_link='auto', login=True, debug=True)
